@@ -1,0 +1,9 @@
+c:\users\kadu\source\repos\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.exe.config
+c:\users\kadu\source\repos\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.exe
+c:\users\kadu\source\repos\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.pdb
+c:\users\kadu\source\repos\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.csprojAssemblyReference.cache
+c:\users\kadu\source\repos\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.Properties.Resources.resources
+c:\users\kadu\source\repos\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.csproj.GenerateResource.cache
+c:\users\kadu\source\repos\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.csproj.CoreCompileInputs.cache
+c:\users\kadu\source\repos\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.exe
+c:\users\kadu\source\repos\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.pdb
