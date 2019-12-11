@@ -37,7 +37,6 @@ namespace ProjetoAtendimento
         #region metodos
         public bool chamar(Queue<Senha> filaSenhas)
         {
-            //deixei de ser fumado HEHEHEHEHE
             Boolean temSenha = (filaSenhas.Count > 0);
 
             if (temSenha)
